@@ -1,0 +1,25 @@
+Projeto integrador Coffee Bucks
+
+Criado pelo grupo: Bernardo, David, Juan e Matheus Feitosa. Somos uma cafeteria feita por 4 programadores.
+
+Com grande trabalho em equipe podemos fazer um projeto bem elaborado e eficiante ligando NetBeans e Banco de dados(mysql).
+
+Bernardo: Design e Cafezinho;
+David: Programador, Design e Cafezinho;
+Juan: Programador, Design e Cafezinho;
+Matheus Feitosa: Programador, Design e Cafezinho;
+
+Utilizamos o GITHub, para criação e edição do trabalho ficou no GIT do Matheus e o trabalho final ficou no GIT do David.
+
+O trabalho também contêm uma ligação de desenhadores no banco de dados e feito em UML caso de uso, utilizando o VISIO.
+
+Dificuldade e trabalho em equipe
+
+As dificuldades foram a criação de chave secundária no banco e também nas variáveis do butão para conectar com banco de dados...
+
+o trabalho em equipe foi podermos compartilhar ideias e ajudar nosso companheiro de equipe no momento de dificuldade, um grande crescimento para o mercado de trabalho.
+
+Graças ao seu Marcelo(pai do aluno David) podemos concluir e ter ideias no nosso trabalho.
+
+
+
